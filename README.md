@@ -1,0 +1,2 @@
+# botto
+Lotto syndicate chatbot
